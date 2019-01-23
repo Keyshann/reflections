@@ -1,3 +1,5 @@
 Recipe 2
 
 + easy mode
+
+coins
